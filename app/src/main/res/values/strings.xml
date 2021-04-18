@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="app_name1"><u>BMI Calculator</u></string>
+    <string name="info"><u>Info About BMI</u></string>
+</resources>
